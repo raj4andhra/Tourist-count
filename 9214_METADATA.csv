@@ -1,0 +1,8 @@
+VariableName,VariableCode,Type_Of_Variable,Unit_Of_Measure,Scaling_Factor,Aggregation_Type,Weighing_Varible_ID,Weighing_Variable_Name,Long_Description
+Country,Country,Key Identifier,,0,,,,Country
+YearCode,YearCode,Key Identifier,,0,,,,YearCode
+Year,Year,Key Identifier,,0,,,,Year
+CalendarDayCode,DayCode,Key Identifier,,0,,,,CalendarDayCode
+Calendar Day,CalendarDay,Key Identifier,,0,,,,Calendar Day
+ASI Monuments,D9214_4,Key Identifier,,,,,,"Archaeological Survey of India (ASI) monuments like Taj Mahal, Red Fort etc."
+Number of Tourists,I9214_5,Numeric Variable,Number,1,sum,Not Applicable,Not Applicable,Number of tourists at Archaeological Survey of India (ASI) monuments
